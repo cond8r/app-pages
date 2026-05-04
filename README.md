@@ -1,5 +1,8 @@
-# SearchCraft privacy & support pages
+# App pages
 
-Static HTML hosted on GitHub Pages for SearchCraft App Store metadata URLs.
+Static HTML for App Store metadata URLs (privacy policies, support pages).
 
-URL: https://cond8r.github.io/searchcraft-privacy/searchcraft-privacy.html
+| App | Privacy | Support |
+|-----|---------|---------|
+| SearchCraft | https://cond8r.github.io/app-pages/searchcraft/privacy.html | — |
+| NetTerminal | https://cond8r.github.io/app-pages/netterminal/privacy.html | https://cond8r.github.io/app-pages/netterminal/support.html |
